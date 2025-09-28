@@ -1,0 +1,33 @@
+PART 1
+_____________________________________________________________________________________________
+Case Sensitive
+	- Java is Case-Sensitive like Hello and hello are complete different entity.
+	
+Naming Convention
+	- Class names should start with Big letter and for every First letter in the ff words.
+	- Method names are camelCase it also defines the behavior of the object.
+	
+Class Name
+	- The class file name must match the program name(written in the program).
+	
+Java Identifiers
+	- Are the names you set for methods objects classes etc.
+	- Starts with a letter (A to Z or a to z),currency ($) or underscore(_).
+	- Using keywords as identifiers are illegal because they have predefine meanings.
+
+White Spaces
+	- In java it describes a blank, tabs, newline characters, and comments.
+	
+Comments
+	- Helps in for reading and understanding the program.
+	- Compilers skip the comments.
+_____________________________________________________________________________________________
+PART 2
+_____________________________________________________________________________________________
+Primitive and Non-Primitive Data Type
+	- Primitive data type are data type that are within java they're not objects-
+	  primitive are always ready to use.
+	- Non-Primitive are data types that are made as objects which are like boxes-
+	  that needs to be open before use.
+
+
